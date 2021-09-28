@@ -1,0 +1,14 @@
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\bin\Debug\netcoreapp3.1\Lecture 2 Exercise.exe
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\bin\Debug\netcoreapp3.1\Lecture 2 Exercise.deps.json
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\bin\Debug\netcoreapp3.1\Lecture 2 Exercise.runtimeconfig.json
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\bin\Debug\netcoreapp3.1\Lecture 2 Exercise.runtimeconfig.dev.json
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\bin\Debug\netcoreapp3.1\Lecture 2 Exercise.dll
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\bin\Debug\netcoreapp3.1\Lecture 2 Exercise.pdb
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\obj\Debug\netcoreapp3.1\Lecture 2 Exercise.csproj.AssemblyReference.cache
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\obj\Debug\netcoreapp3.1\Lecture 2 Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\obj\Debug\netcoreapp3.1\Lecture 2 Exercise.AssemblyInfoInputs.cache
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\obj\Debug\netcoreapp3.1\Lecture 2 Exercise.AssemblyInfo.cs
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\obj\Debug\netcoreapp3.1\Lecture 2 Exercise.csproj.CoreCompileInputs.cache
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\obj\Debug\netcoreapp3.1\Lecture 2 Exercise.dll
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\obj\Debug\netcoreapp3.1\Lecture 2 Exercise.pdb
+C:\Users\cpaul\source\repos\Lecture 2 Exercise\Lecture 2 Exercise\obj\Debug\netcoreapp3.1\Lecture 2 Exercise.genruntimeconfig.cache
