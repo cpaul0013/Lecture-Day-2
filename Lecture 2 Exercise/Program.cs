@@ -13,6 +13,24 @@ namespace Lecture_2_Exercise
                     Console.WriteLine(i);
                 }
             }
+
+            bool keepGoing = true;
+            while (keepGoing)
+            {
+                Console.WriteLine("Would you like to continue? Y or N");
+                string userResponse1 = Console.ReadLine();
+                if (userResponse1 == "Y" || userResponse1 == "y")
+                {
+                    keepGoing = true;
+                }
+                else if(userResponse1 == "n" || userResponse1 == "N")
+                {
+                    keepGoing = false;
+                }
+
+                else
+                { Console.WriteLine("Please input either Y or N."); }
+            }
         }
     }
 }
